@@ -1,0 +1,23 @@
+
+
+th {
+	background-color: #4CAF50;
+	color: white;
+	height: 40px;
+	text-align: left;
+}
+td {
+	width: 100px;
+	text-align: left;
+}
+table tr:nth-child(odd) td{
+ 	background-color: #ffffff;
+}
+table tr:nth-child(even) td{
+   	background-color: #e5e5e5;
+}  
+.countTable table tr td:first-child {
+		text-align: left;
+} /* eka */
+.countTable table tr td:first-child + td{...} /* toka */
+.countTable table tr td:first-child + td + td {...} /* third column */

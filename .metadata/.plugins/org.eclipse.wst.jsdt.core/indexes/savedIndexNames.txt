@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\nickl\Desktop\Etatehtavat_4\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4261700046.index
+1711882276.index
+4118262977.index
+1579815157.index
+1499058539.index
+374088388.index
+2025001041.index

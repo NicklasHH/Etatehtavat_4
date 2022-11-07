@@ -1,0 +1,19 @@
+th {
+	background-color: #4CAF50;
+	color: white;
+	height: 40px;
+	text-align: left;
+}
+
+td {
+	width: 150px;
+	text-align: left;
+}
+
+table tr:nth-child(odd) td {
+	background-color: #ffffff;
+}
+
+table tr:nth-child(even) td {
+	background-color: #e5e5e5;
+}

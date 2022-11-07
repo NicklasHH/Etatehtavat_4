@@ -1,0 +1,32 @@
+th {
+	background-color: #4CAF50;
+	color: white;
+	height: 40px;
+	text-align: left;
+}
+
+td {
+	width: 150px;
+	text-align: left;
+}
+
+table tr:nth-child(odd) td {
+	background-color: #ffffff;
+}
+
+table tr:nth-child(even) td {
+	background-color: #e5e5e5;
+}
+.as-table-head {
+    background-color:rgb(30, 36, 42);
+    width:100%;
+}
+.as-table-head > tr > th {
+    color:white;
+    font: bold 13px/15px;
+    padding:0 !important;
+    height: 30px;
+}
+.as-table-head > tr > th:hover {
+    background-color:#333e48;
+}
